@@ -12,19 +12,19 @@ This project is a classic endless runner game where the player controls a square
 ---
 
 ## ✨ Features
-* **Endless Gameplay: The obstacles are procedurally generated, creating an infinite and unique challenge every time you play.
-* **Dynamic Difficulty: The game's speed increases the longer you survive, demanding quicker reflexes and constant focus.
-* **Collision Detection: Robust collision logic to handle interactions with obstacles.
-* **Responsive Controls: Simple and immediate controls using Arrow Keys or A/D for a fluid gameplay experience.
-* **Built with Web Technologies: Demonstrates core game development principles (game loop, rendering, collision detection) using the HTML Canvas API and vanilla JavaScript.
-* **No Installation Required: Runs directly in any modern web browser without needing any special plugins or runtimes.
+* Endless Gameplay: The obstacles are procedurally generated, creating an infinite and unique challenge every time you play.
+* Dynamic Difficulty: The game's speed increases the longer you survive, demanding quicker reflexes and constant focus.
+* Collision Detection: Robust collision logic to handle interactions with obstacles.
+* Responsive Controls: Simple and immediate controls using Arrow Keys or A/D for a fluid gameplay experience.
+* Built with Web Technologies: Demonstrates core game development principles (game loop, rendering, collision detection) using the HTML Canvas API and vanilla JavaScript.
+* No Installation Required: Runs directly in any modern web browser without needing any special plugins or runtimes.
 
 ---
 
 ## 🛠️ Tech Stack
-* **HTML5: Structures the webpage, providing the core <canvas> element for rendering and containers for the UI (score, start/game-over screens).
-* **CSS3: Styles the entire application, including the game's retro theme, layout, and the start and game-over screen overlays.
-* **JavaScript: Powers all the game logic. This includes the main game loop, player controls, procedural obstacle generation, collision detection, and score tracking.
+* HTML5: Structures the webpage, providing the core <canvas> element for rendering and containers for the UI (score, start/game-over screens).
+* CSS3: Styles the entire application, including the game's retro theme, layout, and the start and game-over screen overlays.
+* JavaScript: Powers all the game logic. This includes the main game loop, player controls, procedural obstacle generation, collision detection, and score tracking.
 
 ---
 
