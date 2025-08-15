@@ -1,7 +1,8 @@
-# 🏃‍♂️EndlessRunnerGame
+# —=≡∑[✜]> CyberRush
 A fast-paced endless runner game built entirely with modern web technologies: HTML, CSS, and JavaScript. The goal is to survive as long as possible by dodging an infinite stream of falling blocks.
 
-https://github.com/user-attachments/assets/a358ab86-a0fb-469b-a56c-9042b45d9081
+
+Uploading Screen Recording 2025-08-15 at 11.43.54 AM.mov…
 
 
 ---
