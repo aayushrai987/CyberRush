@@ -2,7 +2,7 @@
 A fast-paced endless runner game built entirely with modern web technologies: HTML, CSS, and JavaScript. The goal is to survive as long as possible by dodging an infinite stream of falling blocks.
 
 
-Uploading Screen Recording 2025-08-15 at 11.43.54 AM.mov…
+https://github.com/user-attachments/assets/702921db-3bab-48f0-a881-44ef05cc900e
 
 
 ---
