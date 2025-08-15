@@ -53,6 +53,9 @@ function init() {
     scoreEl.textContent = `Score: 0`;
     startScreen.classList.add('hidden');
     gameOverScreen.classList.add('hidden');
+    
+    // Show the score when the game starts
+    scoreEl.classList.remove('hidden-score');
 
     // Start the game loop
     gameLoop();
@@ -123,20 +126,23 @@ function checkCollision() {
 function gameOver() {
     finalScoreEl.textContent = score;
     gameOverScreen.classList.remove('hidden');
+    
+    // Hide the score on the Game Over screen
+    scoreEl.classList.add('hidden-score');
 }
 
 // --- 4. Drawing Functions ---
 function draw() {
-    // Clear canvas
-    ctx.fillStyle = '#16213e';
+    // Clear canvas with a dark purple/blue grid background
+    ctx.fillStyle = '#261c4f';
     ctx.fillRect(0, 0, SCREEN_WIDTH, SCREEN_HEIGHT);
 
-    // Draw player
-    ctx.fillStyle = '#00bfff'; // Bright blue
+    // Draw player (electric blue)
+    ctx.fillStyle = '#4d4dff';
     ctx.fillRect(player.x, player.y, player.width, player.height);
 
-    // Draw obstacles
-    ctx.fillStyle = '#e94560'; // Red
+    // Draw obstacles (purple)
+    ctx.fillStyle = '#9b59b6';
     for (const obstacle of obstacles) {
         ctx.fillRect(obstacle.x, obstacle.y, obstacle.width, obstacle.height);
     }
