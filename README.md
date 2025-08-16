@@ -1,8 +1,8 @@
-# —=≡∑[✜]> CyberRush
+# 🎮 CyberRush
 A fast-paced endless runner game built entirely with modern web technologies: HTML, CSS, and JavaScript. The goal is to survive as long as possible by dodging an infinite stream of falling blocks.
 
 
-https://github.com/user-attachments/assets/702921db-3bab-48f0-a881-44ef05cc900e
+<img width="1440" height="811" alt="CyberRush" src="https://github.com/user-attachments/assets/6234686c-c29c-4180-95fc-18abe941f215" />
 
 
 ---
